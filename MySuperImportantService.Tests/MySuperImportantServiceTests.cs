@@ -8,7 +8,7 @@ namespace MySuperImportantService.Tests
         [Fact]
         public void WhenOneIsComparedToOneTheResultIsTrue()
         {
-            Assert.Equal(1, 1);
+            Assert.Equal(2, 1);
         }
     }
 }
